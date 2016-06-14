@@ -10,6 +10,8 @@ This dataset was used in the following papers and book:
 
 * Mogomotsi Keaikitse, Natasha Govender, Jonathan Warrell, *“Comparison of Active object recognition systems”*, Africon, September 2013
 
+* N Govender, J Warrell, P Torr, F Nicolls, “Probabilistic Models for 2D Active Shape Recognition using Fourier Descriptors and Mutual Information”, Advances in Computer Science, Istanbul, Turkey, 22-23 August 2014, p 69-74
+
 * Natasha Govender, Jonathan Warrell, Mogomotsi Keaikitse, Philip Torr, Fred Nicolls, *“Probabilistic Active Recognition of Multiple Objects using Hough-based Geometric Matching Features”*, Yu Sun, Aman Behal and Chi-Kit Ronald Chung (eds), in Introduction to Robot Vision, Springer, pp. 89-108
   * http://link.springer.com/chapter/10.1007%2F978-3-662-43859-6_6
 
